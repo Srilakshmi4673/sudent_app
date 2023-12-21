@@ -1,0 +1,99 @@
+{
+  "StudentDetail": [
+    {
+      "id": 1,
+      "sid": "1",
+      "name": "sri",
+      "course": "Angular",
+      "mobile": "9632548710",
+      "email": "sri@gmail.com",
+      "dateofjoining": "2023-10-20"
+    },
+    {
+      "id": 2,
+      "sid": "2",
+      "name": "m",
+      "course": "full stack",
+      "mobile": "7655425301",
+      "email": "m@gmail.com",
+      "dateofjoining": "2023-12-01"
+    },
+    {
+      "id": 3,
+      "sid": "3",
+      "name": "lakshmi",
+      "course": "python",
+      "mobile": "123567890",
+      "email": "la@gmail.com",
+      "dateofjoining": "2023-11-20"
+    },
+    {
+      "id": 4,
+      "sid": "6",
+      "name": "mmm",
+      "course": "frontend",
+      "mobile": "123456789",
+      "email": "mmm@gmaail.com",
+      "dateofjoining": "2023-12-13"
+    },
+    {
+      "id": 5,
+      "sid": "6",
+      "name": "sss",
+      "course": "backend",
+      "mobile": "123456789",
+      "email": "sss@gmail.com",
+      "dateofjoining": "2023-12-13"
+    }
+  ],
+  "Registration": [
+    {
+      "id": 1,
+      "name": "dd",
+      "email": "dd@gmail.com",
+      "mobile": "7894560321",
+      "password": "dharani",
+      "conformpassword": "dharani"
+    },
+    {
+      "id": 2,
+      "name": "sai",
+      "email": "sai@gmail.com",
+      "mobile": "7964130258",
+      "password": "sai123",
+      "conformpassword": "sai123"
+    },
+    {
+      "id": 3,
+      "name": "vijai",
+      "email": "vijai@gmail.com",
+      "mobile": "8886549712",
+      "password": "vijai123",
+      "conformpassword": "vijai123"
+    },
+    {
+      "id": 4,
+      "name": "sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543210",
+      "password": "sri123",
+      "conformpassword": "sri123"
+    },
+    {
+      "id": 5,
+      "name": "sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543210",
+      "password": "sri123",
+      "conformpassword": "sri123"
+    },
+    {
+      "id": 6,
+      "name": "dd",
+      "email": "dd@gmail.com",
+      "mobile": "8765410239",
+      "password": "dd1234",
+      "conformpassword": "dd1234"
+    }
+  ]
+}
